@@ -1,0 +1,9 @@
+2020-11-26 12:07:09,695 :INFO :test_loggingdemo :info message
+2020-11-26 12:07:09,696 :WARNING :test_loggingdemo :warning message
+2020-11-26 12:07:09,696 :ERROR :test_loggingdemo :error message
+2020-11-26 12:07:09,697 :CRITICAL :test_loggingdemo :critical issue
+2020-11-26 12:11:06,587 :ERROR :test_loggingdemo :error message
+2020-11-26 12:11:06,589 :CRITICAL :test_loggingdemo :critical issue
+2020-11-26 12:11:46,343 :CRITICAL :test_loggingdemo :critical issue
+2020-11-26 13:21:19,329 :CRITICAL :test_loggingdemo :critical issue
+2020-11-26 13:33:56,430 :CRITICAL :test_loggingdemo :critical issue
